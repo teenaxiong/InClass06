@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InClass06</string>
+    <string name="categoryLabel">Show Category</string>
+    <string name="goButton">Go</string>
+    <string name="arrayLength">%1$s  out of %1$s</string>
+    <string name="outOf">out of</string>
+</resources>
